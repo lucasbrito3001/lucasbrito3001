@@ -8,4 +8,6 @@ E atualmente resolvi me aventurar no mundo do desenvolvimento Front-end (e admit
 
 ## Vou deixar aqui minhas redes sociais, caso tenham interesse, entrem em contato!
 
-![Instagram](./images/instagram.png)
+![Instagram](./images/instagram.png) [Instagram](https://www.instagram.com/lucasdebrito12/)
+
+![LinkedIn](./images/linkedin.png) [LinkedIn](https://www.linkedin.com/in/lucas-brito-972b18182/)
