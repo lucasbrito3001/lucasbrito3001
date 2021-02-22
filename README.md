@@ -8,4 +8,4 @@ E atualmente resolvi me aventurar no mundo do desenvolvimento Front-end (e admit
 
 ## Vou deixar aqui minhas redes sociais, caso tenham interesse, entrem em contato!
 
-![Instagram](./imagens/instagram.png)
+![Instagram](./images/instagram.png)
