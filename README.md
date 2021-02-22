@@ -8,4 +8,4 @@ E atualmente resolvi me aventurar no mundo do desenvolvimento Front-end (e admit
 
 ## Vou deixar aqui minhas redes sociais, caso tenham interesse, entrem em contato!
 
-![Instagram](https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1614031168~hmac=4e37d12addac64d0501b5ffe08401efd)
+![Instagram]()
