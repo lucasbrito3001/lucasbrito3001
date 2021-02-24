@@ -1,25 +1,9 @@
-<!-- # DevBrito
-
-## Fala Galera, beleza?
-
-### Meu nome é _Lucas de Brito_, e eu sou um jovem entusiasta da tecnologia e da programação.
-
-E atualmente resolvi me aventurar no mundo do desenvolvimento Front-end (e admito que estou curtindo MUITO), atualmente estou estudando diariamente HTML5, CSS3, JavaScript, e Vue.js, e pretendo fortemente me especializar nessas tecnologias, pois estou achando sensacional!
-
-## Vou deixar aqui minhas redes sociais, caso tenham interesse, entrem em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-brito-972b18182/)](https://www.linkedin.com/in/lucas-brito-972b18182/)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brito3001)](https://twitter.com/brito3001)
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://twitter.com/brito3001)](https://twitter.com/brito3001) -->
-
 <h1 align="center">Hi 👋, I'm Lucas de Brito</h1>
-<h3 align="center">A young guy who loves technology and programming. Front-end development student!</h3>
+<h3 align="center">A young front-end development student who loves technology and programming!</h3>
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 💬 Ask me about **html, css, javascript and vue**
+- 💬 Ask me about **html, css, javascript and vue.js**
 
 - 📫 How to reach me **devlucasmail@gmail.com**
 
