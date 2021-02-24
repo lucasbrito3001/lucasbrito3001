@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **devlucasmail@gmail.com**
 
+- My first project: <a href="coinverter.vercel.app" target="blank" text-decoration="none" color="yellow">Coinverter - Conversor de Moedas</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brito3001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brito3001" height="30" width="40" /></a>
