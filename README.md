@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brito3001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brito3001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lucas-brito-972b18182/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucas-brito-972b18182/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/webdevbrito/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucas-brito-972b18182/" height="30" width="40" /></a>
 <a href="https://instagram.com/@lucasdebrito12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@lucasdebrito12" height="30" width="40" /></a>
 </p>
 
