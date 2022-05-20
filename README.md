@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **devlucasmail@gmail.com**
 
-- My first project: <a href="https://coinverter.vercel.app" target="blank">**Coinverter - Conversor de Moedas**</a>
+- My portfolio: <a href="https://lucasdbrito.com" target="blank">Lucas de Brito - Desenvolvedor WEB</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
