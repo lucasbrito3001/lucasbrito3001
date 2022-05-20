@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **devlucasmail@gmail.com**
 
-- My portfolio: <a href="https://lucasdbrito.com" target="blank">Lucas de Brito - Desenvolvedor WEB</a>
+- My portfolio: <a href="https://lucasdbrito.com" target="_blank">Lucas de Brito - Desenvolvedor WEB</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
