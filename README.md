@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas de Brito</h1>
 <h3 align="center">A fullstack web developer who loves technology and programming!</h3>
-<h4 align="center">- My portfolio: <a href="https://lucasdbrito.com" target="_blank">Lucas de Brito - Desenvolvedor WEB</a></h4>
 
-- 🌱 I’m currently learning **TypeScript and Tests**
+<h4 align="center">My portfolio: <a href="https://lucasdbrito.com" target="_blank">Lucas de Brito - Desenvolvedor WEB</a></h4>
 
-- 💬 Ask me about **html, css, javascript and vue.js**
-
-- 📫 How to reach me **devlucasmail@gmail.com**
+- 📫 How to reach me:
+  - **devlucasmail@gmail.com**
+  - **https://www.linkedin.com/in/webdevbrito/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
