@@ -20,4 +20,6 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
   <img src="https://img.icons8.com/color/32/undefined/git.png"/>
   <img src="https://img.icons8.com/color/32/undefined/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/32/undefined/css3.png"/>
+  <img src="https://img.icons8.com/ios-glyphs/32/undefined/visual-studio.png"/>
+  <img src="https://img.icons8.com/color/32/undefined/linux--v1.png"/>
 </p>
