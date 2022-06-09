@@ -6,7 +6,7 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
 
 ### 📫 Contatos e informações:
   - **devlucasmail@gmail.com**
-  - **https://www.linkedin.com/in/webdevbrito/**
+  - **[LinkedIn](https://www.linkedin.com/in/webdevbrito/)**
   - **[Portfólio](https://lucasdbrito.com)**
 
 <h3 align="left">Principais habilidades:</h3>
