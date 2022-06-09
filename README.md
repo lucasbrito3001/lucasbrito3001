@@ -25,3 +25,5 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
   <img src="https://img.icons8.com/color/32/undefined/typescript.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/undefined/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
 </p>
+
+### <a href="https://lucasdbrito.com">Meu portfolio com todas as minhas informações</a>
