@@ -22,4 +22,6 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
   <img src="https://img.icons8.com/color/32/undefined/css3.png"/>
   <img src="https://img.icons8.com/ios-glyphs/32/3498DB/visual-studio.png"/>
   <img src="https://img.icons8.com/color/32/undefined/linux--v1.png"/>
+  <img src="https://img.icons8.com/color/32/undefined/typescript.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/undefined/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
 </p>
