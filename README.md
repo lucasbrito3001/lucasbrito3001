@@ -13,4 +13,5 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
   <img src="https://img.icons8.com/color/48/undefined/vue-js.png" width="32" height="32"/>
   <img src="https://img.icons8.com/color/48/undefined/react-native.png" width="32" height="32"/>
   <img src="https://img.icons8.com/color/48/undefined/nodejs.png" width="32" height="32"/>
+  <img src="https://img.icons8.com/fluency/48/undefined/node-js.png" width="32" height="32"/>
 </p>
