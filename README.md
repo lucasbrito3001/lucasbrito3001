@@ -4,9 +4,10 @@ Um jovem apaixonado por inovações, desafios, tecnologia, finanças e muito caf
 A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fatores determinantes para o meu ingresso na área.
 </p>
 
-### 📫 Onde me encontrar:
+### 📫 Contatos e informações:
   - **devlucasmail@gmail.com**
   - **https://www.linkedin.com/in/webdevbrito/**
+  - **Portfólio[https://lucasdbrito.com]**
 
 <h3 align="left">Principais habilidades:</h3>
 <p align="left">
@@ -25,5 +26,3 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
   <img src="https://img.icons8.com/color/32/undefined/typescript.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/undefined/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
 </p>
-
-### <a href="https://lucasdbrito.com">Meu portfolio com todas as minhas informações</a>
