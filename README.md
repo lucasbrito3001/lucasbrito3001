@@ -1,5 +1,9 @@
 <h1 align="center">Olá 👋, meu nome é Lucas de Brito</h1>
-<h3 align="center">Sou um desenvolvedor web fullstack, apaixonado por inovações, tecnologia, programação e finanças</h3>
+<h3>
+Um jovem apaixonado por inovações, desafios, tecnologia, código e principalmente café! E é isso que me faz gostar tanto da área de desenvolvimento e programação.
+
+A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fatores determinantes para o meu ingresso na área.
+</h3>
 
 <h4 align="center">Meu portfólio: <a href="https://lucasdbrito.com" target="_blank">Lucas de Brito - Desenvolvedor WEB</a></h4>
 
