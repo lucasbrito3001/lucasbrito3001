@@ -1,5 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Lucas de Brito</h1>
+
 ## Meu portfólio: <a href="https://lucasdbrito.com" target="_blank">Lucas de Brito - Desenvolvedor WEB</a>
+
 <p>
 Um jovem apaixonado por inovações, desafios, tecnologia, finanças e muito café! E é isso que me faz gostar tanto da área de desenvolvimento e programação.
 A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fatores determinantes para o meu ingresso na área.
