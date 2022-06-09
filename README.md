@@ -10,5 +10,7 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
 
 <h3 align="left">Principais habilidades:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/undefined/vue-js.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/undefined/vue-js.png" width="32" height="32"/>
+  <img src="https://img.icons8.com/color/48/undefined/react-native.png" width="32" height="32"/>
+  <img src="https://img.icons8.com/color/48/undefined/nodejs.png" width="32" height="32"/>
 </p>
