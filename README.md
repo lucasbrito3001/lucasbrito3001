@@ -10,5 +10,5 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
 
 <h3 align="left">Principais habilidades:</h3>
 <p align="left">
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+  <img src="https://img.icons8.com/color/48/undefined/vue-js.png" width="40" height="40"/>
 </p>
