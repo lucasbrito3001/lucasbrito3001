@@ -18,6 +18,7 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
   <img src="https://img.icons8.com/color/32/undefined/react-native.png"/>
   <img src="https://img.icons8.com/fluency/32/undefined/node-js.png"/>
   <img src="https://img.icons8.com/color/32/undefined/docker.png"/>
+  <img src="https://img.icons8.com/color/32/undefined/nestjs.png"/>
   <img src="https://img.icons8.com/color/32/undefined/kubernetes.png"/>
   <img src="https://img.icons8.com/color/36/undefined/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/32/undefined/bootstrap.png"/>
