@@ -12,10 +12,13 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
 
 <h3 align="left">Principais habilidades:</h3>
 <p align="left">
+  <img src="https://img.icons8.com/color/32/undefined/typescript.png"/>
   <img src="https://img.icons8.com/color/32/undefined/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/32/undefined/vue-js.png"/>
   <img src="https://img.icons8.com/color/32/undefined/react-native.png"/>
   <img src="https://img.icons8.com/fluency/32/undefined/node-js.png"/>
+  <img src="https://img.icons8.com/color/32/undefined/docker.png"/>
+  <img src="https://img.icons8.com/color/32/undefined/kubernetes.png"/>
   <img src="https://img.icons8.com/color/36/undefined/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/32/undefined/bootstrap.png"/>
   <img src="https://img.icons8.com/color/32/undefined/sass.png"/>
@@ -24,6 +27,5 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
   <img src="https://img.icons8.com/color/32/undefined/css3.png"/>
   <img src="https://img.icons8.com/ios-glyphs/32/3498DB/visual-studio.png"/>
   <img src="https://img.icons8.com/color/32/undefined/linux--v1.png"/>
-  <img src="https://img.icons8.com/color/32/undefined/typescript.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/undefined/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
 </p>
