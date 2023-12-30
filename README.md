@@ -8,7 +8,7 @@ A ascensão constante da tecnologia me traz muita curiosidade, e foi um dos fato
   - devlucasmail@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/lucasdbritodev/)
   - [Portfólio](https://lucasdbrito.com)
-  - [WhatsApp](`https://wa.me/+5518997351747?text=Olá, peguei seu contato pelo github, queria tirar uma dúvida`)
+  - [WhatsApp](https://wa.me/+5518997351747?text=Olá,%20peguei%20seu%20contato%20pelo%20github,%20queria%20tirar%20uma%20dúvida)
 
 <h3 align="left">Principais habilidades:</h3>
 <p align="left">
